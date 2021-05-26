@@ -1,2 +1,12 @@
-# react-app-template01
-Basis React App Started Template
+# Basic React App Starter Template
+
+## Docker Setup
+
+
+
+
+## Install npm packages
+`yarn install`
+
+`yarn start`
+
