@@ -10,7 +10,7 @@
 
 You have successfully set up your docker container if you get the following in your command line.
 
-![](fig/docker-success.jpg)
+![](fig/docker-success.JPG)
 
 ## Install npm packages
 
