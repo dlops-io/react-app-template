@@ -2,7 +2,7 @@
 
 ## Docker Setup
 
-##For Windows
+## For Windows
 
 1. Open Command Prompt
 2. Location file
